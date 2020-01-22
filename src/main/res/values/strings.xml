@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="Track_List">Music List</string>
+    <string name="Track_Name">Track Name</string>
+    <string name="Artist_Name">Artist Name</string>
+    <string name="Album_Name">Album Name</string>
+    <string name="Invalid_Name">&lt;unknown&gt;</string>
+    <string name="Unknown_Name">Unknown</string>
+    <string name="Artist_List">Artist List</string>
+    <string name="Album_List">Album List</string>
+    <string name="Artist_Track_List">Artist\'s Music List</string>
+    <string name="Album_Track_List">Album\'s Music List</string>
+    <string name="Title_Splitter"> - </string>
+    <string name="Track_Time">00:00:00</string>
+    <string name="Popup_Category">Category</string>
+    <string name="Popup_Sort">Sort</string>
+    <string name="Popup_Search">Search</string>
+    <string name="Popup_Setting">Setting</string>
+    <string name="Popup_Category_Playing">Playing</string>
+    <string name="Popup_Category_Track">Song</string>
+    <string name="Popup_Category_Artist">Artist</string>
+    <string name="Popup_Category_Album">Album</string>
+    <string name="Popup_Sort_Title">Title</string>
+    <string name="Popup_Sort_Type">Type</string>
+    <string name="Popup_Sort_Size">Size</string>
+    <string name="Popup_Sort_Time">Time</string>
+    <string name="Popup_Search_Button">Search</string>
+    <string name="Popup_Setting_Play_All">Play All</string>
+    <string name="Popup_Setting_Party_Shuffle">Party Shuffle</string>
+    <string name="Popup_Setting_Shuffle_All">Shuffle All</string>
+    <string name="File_Not_Exist">The file does not exist</string>
+    <string name="Music_Trace">Music_Trace</string>
+    <string name="Quick_Search_Hint">All</string>
+    <string name="Dummy_Hint">Loading</string>
+</resources>

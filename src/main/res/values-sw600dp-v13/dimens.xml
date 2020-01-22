@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_side_width">120dp</dimen>
+    <dimen name="button_side_height">60dp</dimen>
+    <dimen name="button_orc_width">120dp</dimen>
+    <dimen name="button_orc_height">61dp</dimen>
+    <dimen name="button_circle_size">86dp</dimen>
+    <dimen name="sep_height">46dp</dimen>
+</resources>

@@ -1,0 +1,642 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_51 (Oracle Corporation)
+
+Name: res/drawable-sw480dp-v13/popup_setting_shuffle_all_over.png
+SHA-256-Digest: u/T8gIiMLgI66DJ8m88MUiOFv/fRdWIdZ8WlbWy8bAE=
+
+Name: res/drawable-sw480dp-v13/play_previous.png
+SHA-256-Digest: 0keOKFLDPtCIYE6s4pwASI7Fr8HZtJSGdgs6qaptMxc=
+
+Name: res/layout-sw600dp-v13/activity_popup.xml
+SHA-256-Digest: ZPBXZoiLueqHu69Kh8Kp5i4fkdAGvdyPd8lzHHhwiS4=
+
+Name: res/drawable/style_popup_setting_play_all.xml
+SHA-256-Digest: 39GioEjRc8ELd5f1WMp0MY7vWT/SJfwL5zKuHl1Nvbw=
+
+Name: res/drawable/style_albumlist_item.xml
+SHA-256-Digest: KLt09PcYQxUi5Jkf3wJlRD506PZpYxKfG1+xr5BQYBo=
+
+Name: res/drawable/style_popup_sort_type.xml
+SHA-256-Digest: f1el1kyojJzmqw5Fkp4Bs/Kp0uS7/3cIuAQYoWT9pLs=
+
+Name: res/drawable-sw600dp-v13/popup_setting_party_shuffle_over.png
+SHA-256-Digest: 4kdMh/xuXZch/BFsDImaZhnpyr9CgSC3b1HR7xsYxyQ=
+
+Name: res/drawable-sw480dp-v13/popup_sort_size_over.png
+SHA-256-Digest: ItooAGvg1urAEOdA6JunMw0TEIlyQqmrZHaognWIOBY=
+
+Name: res/drawable-sw600dp-v13/audio.png
+SHA-256-Digest: C4fURMK+5gZqylz0HT5F7pIY0iP9i7/6VRqb7vz/G9E=
+
+Name: res/layout-sw480dp-v13/activity_popup_search.xml
+SHA-256-Digest: xG3o0HIfqzS3bTM1+NzU2bBJK7XE/A/x9/G/ll7WLAU=
+
+Name: res/layout-sw600dp-v13/activity_artist_list.xml
+SHA-256-Digest: sFcxWK366/geJeEpdEtVgMHvA2UjlsOe9bD2Ex4D6BM=
+
+Name: res/drawable-sw480dp-v13/play_next.png
+SHA-256-Digest: MY1MfBSNV0jhVY0ree7c7HyxGJxZIeLOas8hKfR0wNM=
+
+Name: res/drawable-sw480dp-v13/popup_background.png
+SHA-256-Digest: TNrdV8FGIAC1NIB3ID6NKpS2Xg3YF0wmlAAPEHRDjdk=
+
+Name: res/drawable-sw600dp-v13/popup_category_artist_over.png
+SHA-256-Digest: UFaR1QGFP4iTSaO4V6KqLi8cda/1wAXEtmIDeTkYmEc=
+
+Name: res/drawable-sw480dp-v13/play_next_over.png
+SHA-256-Digest: CHgzQJ0826IsqHQC/tQ+hCtNcjatOgY8Ub965hkRXBU=
+
+Name: res/drawable-sw480dp-v13/popup_sort_over.png
+SHA-256-Digest: WwNJgM6qEUJaBryrg7F4DvCOf3YDZsV7ehSR2atkpFQ=
+
+Name: res/drawable-sw480dp-v13/popup_setting_play_all.png
+SHA-256-Digest: ZnCOHrCpYf46aLN9BJ8HR+RuYoFKca8fldnl2O7X+SQ=
+
+Name: res/drawable-sw600dp-v13/play_pause_over.png
+SHA-256-Digest: QcLuZ99v4kFOtmyPUehPrWO/LqK39jf0DhdAfQIsxmQ=
+
+Name: res/drawable-sw600dp-v13/list_icon_moreset.png
+SHA-256-Digest: 71oUt/IlugtxAH+3U8x6/eYs886iyGgD2p3RT4zF4q4=
+
+Name: res/drawable-sw600dp-v13/popup_category.png
+SHA-256-Digest: P37x+tKfMH8vxTQJSrxQGkpihRyy4QEBJF+Fn5ruqHk=
+
+Name: res/drawable-sw600dp-v13/quick_search_over.png
+SHA-256-Digest: jRmcvWiGuwp7wKph6V3MtBuGYdWsJos22GgR5WVQ36o=
+
+Name: res/layout-sw600dp-v13/activity_popup_setting.xml
+SHA-256-Digest: SksJ3mdNWOuitsP8XNf3GDfLJtiqAj0tynwvj2FI4a0=
+
+Name: res/drawable-sw600dp-v13/play_shuffle_over.png
+SHA-256-Digest: oHCIwbkgKcn3F9hijsA2f7Mm1cTvbVpLe43l1XswNiU=
+
+Name: res/layout-sw600dp-v13/activity_play.xml
+SHA-256-Digest: 9YjIskFhRSvaS7BJLgvbOnM+weDQcg4SaqzP1e4xUHQ=
+
+Name: res/drawable-sw480dp-v13/quick_search_background.png
+SHA-256-Digest: tyIaPjucFeo6wYH7SUc28GGFU/OTOUr9Ry1YkTs7QH8=
+
+Name: res/drawable/style_play_list.xml
+SHA-256-Digest: gIy7iJkfVLLQ51+r9cZeNc9YJyLGFp0sC/5UAVB7lYw=
+
+Name: res/drawable-sw480dp-v13/popup_setting_over.png
+SHA-256-Digest: FAR03+VbF4WOwwPbjzypUleWiTSLVopR3mi6LOcr6tw=
+
+Name: res/layout-sw600dp-v13/activity_track_list.xml
+SHA-256-Digest: aiPUZ5GGKGnN23mifFd2WaKLPnkp2+a7097ox+YO410=
+
+Name: res/drawable-sw600dp-v13/play_single_loop.png
+SHA-256-Digest: VJqCCP+JjmS4VndHUKVL6yI69lAtDwA2BBdtyj3KI0I=
+
+Name: res/drawable-sw480dp-v13/list_icon_artist.png
+SHA-256-Digest: KLyTIgV2hH085tmjtb7BTsn39OYU64r4NTWmUKNLRuU=
+
+Name: res/drawable-sw480dp-v13/play_play_over.png
+SHA-256-Digest: Ns+RfpeA+p4qK+7H7zBAQEtHWaGQ3XyHlvaiY0roJsY=
+
+Name: res/drawable-sw600dp-v13/popup_setting_play_all.png
+SHA-256-Digest: g+5hY2oABGaxZxsfJvQsWtIt1sJMloTp/1XsgVKSIoQ=
+
+Name: res/drawable-sw600dp-v13/play_list_over.png
+SHA-256-Digest: JJjSfdoxhmJSjHdvOlOwzpvTGFu5fuUbIJ1lpgev8yY=
+
+Name: res/layout-sw600dp-v13/activity_item.xml
+SHA-256-Digest: pIDx21l6ToTpzlCxPq8YOauKWUPy2NM0+fbo353SPr8=
+
+Name: res/drawable-sw600dp-v13/popup_category_playing_over.png
+SHA-256-Digest: 4pOXjjv+ouanLSTl9zo+Ehsp3vycGx2BQn+p2z8mh00=
+
+Name: res/drawable-sw480dp-v13/play_shuffle_over.png
+SHA-256-Digest: 6pbTVNnet7lUaoTYp/AKaqxXcEBnnOg01AOWJO/5BXg=
+
+Name: res/drawable-sw480dp-v13/popup_search_edit.png
+SHA-256-Digest: EWQwG+GpdiA6HeCWBPAUZGQVM3JlDkWQOqOkLae4WDw=
+
+Name: res/drawable-sw480dp-v13/music_list_album.png
+SHA-256-Digest: bK7VtNA6VPD/Yp1vqS9VmhXW26OSppRDbobgvz2Or7c=
+
+Name: res/drawable-sw600dp-v13/list_icon_moreset_over.png
+SHA-256-Digest: TV4JngqwnJHJhIEkQ/0Z2vdOhDdvFcpX6ucmrDPpDjA=
+
+Name: res/drawable-sw600dp-v13/popup_background.png
+SHA-256-Digest: fPBhK9RCrsDfaXfWzJrNjpGcKHYAvw/yfYH8srIs898=
+
+Name: res/drawable-sw600dp-v13/play_lrc.png
+SHA-256-Digest: cytCvTLc8I6c4ODM2yWILtQFtP8nSryjYmpqkpMkzN0=
+
+Name: res/drawable/style_play_effect.xml
+SHA-256-Digest: mUYmpD2aUP67PY9b9U1tP85tmyBFeKbWHCRP+UeTTTQ=
+
+Name: res/drawable-sw480dp-v13/play_pause_over.png
+SHA-256-Digest: P4Qv0CSL5+791tnJe9qdSLfXm98j+jAJfMUsErzk730=
+
+Name: res/drawable-sw600dp-v13/play_lrc_over.png
+SHA-256-Digest: Tm4+YxaqL3BPRfb3AwTPdIUy+5eQPpZ6OOntYjh/0zs=
+
+Name: res/drawable-sw480dp-v13/play_list.png
+SHA-256-Digest: hseqUm7WZ/9OJyaIiRziE5fVFPDsmIMAMb2ygybB7zI=
+
+Name: res/drawable-sw480dp-v13/list_icon_album.png
+SHA-256-Digest: zPYlIX9+/juSgqvmNNKlCAofgFUViPObUmgzsZ8rHWE=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: grGwqQszUAFyeHh6OACDqqsAdiz1bi609BODiu1u/j8=
+
+Name: res/drawable-sw600dp-v13/play_next.png
+SHA-256-Digest: KTQn9rS6uqiEGxrps8uPw9XUghAhCMJ5H/7sPYzfrqs=
+
+Name: res/drawable-sw480dp-v13/popup_search_over.png
+SHA-256-Digest: uhPvH4qr9Xm6CN67opu1X3ip7V66pDs28Lg0WtRcOFY=
+
+Name: res/drawable-sw480dp-v13/list_icon_line.png
+SHA-256-Digest: nf1O0QzYfxMfscxAYrxGGd5ttx0mSeW+MgkKGlJniW4=
+
+Name: res/layout-sw600dp-v13/activity_popup_search.xml
+SHA-256-Digest: zajqDf9CUYfkbspwZyjIOrOK77y7q/EptLB53yjZcPM=
+
+Name: res/drawable-sw480dp-v13/popup_category_album.png
+SHA-256-Digest: 7Np8G+eHuQkL8bm8KHS/YqfTxL2su8R+uYsdZ6kIiew=
+
+Name: res/drawable-sw480dp-v13/popup_category_playing.png
+SHA-256-Digest: Zdh2Q59hhh+zW9Vp+k31ybGGekin62ii73v7s0bc170=
+
+Name: res/drawable-sw600dp-v13/popup_sort_type.png
+SHA-256-Digest: K6KF9AazCIYkTGDZq5V797+NHGV5ZCskytoan5+Mbbw=
+
+Name: res/drawable/style_popup_search.xml
+SHA-256-Digest: 781zjhrMkReyVdcrHluuIbvB1bEVNm1LkDF07fAv500=
+
+Name: res/drawable-sw480dp-v13/list_icon_moreset.png
+SHA-256-Digest: /47JmQETKxV36837PKXUxRVYSl1FMZ67pviAwdbjl6w=
+
+Name: res/drawable-sw600dp-v13/popup_sort_over.png
+SHA-256-Digest: noiL3LduWPcp7BoaS4Xl2mj8tjyw2d0zAzCE0L/I1lg=
+
+Name: res/drawable-sw600dp-v13/play_play_over.png
+SHA-256-Digest: JcUvwj4XsrfLvbyWR7ZL8RZ6UttRbbLk8Hng0yiatCQ=
+
+Name: res/drawable-sw600dp-v13/popup_setting_over.png
+SHA-256-Digest: PxNHPoF/WIV1m8VAfkVXD7Ea91Er80E+nnqHF4EFL9k=
+
+Name: res/layout-sw600dp-v13/activity_main.xml
+SHA-256-Digest: grGwqQszUAFyeHh6OACDqqsAdiz1bi609BODiu1u/j8=
+
+Name: res/drawable-sw600dp-v13/popup_category_over.png
+SHA-256-Digest: VslbhP1wER51E3J2+qovk7JXz9UY8YXQJuh9N15D1pE=
+
+Name: res/drawable/style_popup_category_album.xml
+SHA-256-Digest: Z9U76QuxvlSOjuQusENxTsOw5dwG6B1YLXOSIZG+hdg=
+
+Name: res/drawable-sw480dp-v13/list_icon_track.png
+SHA-256-Digest: vL4LZ39zDujT8KA2zSQVfkyrapdrKgl5XghK56P3oBw=
+
+Name: res/drawable-sw480dp-v13/play_single_loop_over.png
+SHA-256-Digest: 5gy3R6qEKg806RfXBvqRsO8SyZqSg6ypQ28MqXJtt8I=
+
+Name: res/drawable-sw600dp-v13/play_next_over.png
+SHA-256-Digest: Euj0SatpeIWvprD+po78CaifjmEmpnARitnJ2u1ZLEo=
+
+Name: res/drawable-sw480dp-v13/music_list_track_over.png
+SHA-256-Digest: NbnI7phzknJqMdRvXEYV9Xi5FgBplyPZylu4zOPcCjU=
+
+Name: res/layout-sw600dp-v13/activity_album_list.xml
+SHA-256-Digest: fW792aiw57tn5Vl9Irr8qCZBngT1zE6yT0qNzh9G02o=
+
+Name: res/layout-sw480dp-v13/activity_lrc_line.xml
+SHA-256-Digest: MghK7ZAecHwXXtgLDISExtnnG2qW3jw0ZXP7VKyVjCM=
+
+Name: res/drawable/style_popup_category_artist.xml
+SHA-256-Digest: mSgL0YFgsO6XXyVTERrM2QgWhkY++iQq1j7DZGqTsRY=
+
+Name: res/drawable-sw600dp-v13/popup_sort_title.png
+SHA-256-Digest: bQ6rh3NfnG4AfOeyRNEUdv81kL9HJAghfpSSEM5p/Aw=
+
+Name: res/drawable/play_effect_over.png
+SHA-256-Digest: PGUWg8aLj4HP97JMsyr59iSQ15szZNbYtje5VgLKFmQ=
+
+Name: res/drawable-sw480dp-v13/popup_category_track_over.png
+SHA-256-Digest: DeMR8sDOzWz85ypaZl3Xh44r3PLqR6gSJEBnN+AMuus=
+
+Name: res/drawable-sw600dp-v13/popup_search_button.png
+SHA-256-Digest: 06SR0aQEMWEDerIIeHQY9ApFVzgT6zmtZMcyTfclNTI=
+
+Name: res/drawable-sw600dp-v13/list_icon_line.png
+SHA-256-Digest: c1w36p2ALjauKwMm4GqSHbHE/nYjHPHRqLdlbsixtiQ=
+
+Name: res/drawable-sw600dp-v13/music_list_track_over.png
+SHA-256-Digest: zvdyp6aSnxMIYr7VSEzLBKUhKuDbUjmIf6MKGeibe9w=
+
+Name: res/drawable-sw600dp-v13/list_icon_artist.png
+SHA-256-Digest: cfn9DLcEqqTdiiKsgW3pyAfmQW8vRY/DYKRlfbEnO18=
+
+Name: res/drawable-sw480dp-v13/popup_setting_party_shuffle.png
+SHA-256-Digest: iX0b+W6b6hVEpS6EQGC2owlZXh88gnM8lh0vUBw2jTU=
+
+Name: res/layout-sw480dp-v13/activity_album_track_list.xml
+SHA-256-Digest: vC7YOBdtPgp/o8wsYdJTpk92+bwTBoQr+kBBgF+0z9I=
+
+Name: res/drawable-sw480dp-v13/play_loop.png
+SHA-256-Digest: n7dG5Vepvn1P6DOA9OEu4v9IEUDMNOQYHN6GBBAWeCQ=
+
+Name: res/drawable-sw600dp-v13/play_control_background.png
+SHA-256-Digest: KysQiyRF3MdKBzoKrGyjKXg9JAGQhF2Qb4bP5XofQ5Y=
+
+Name: res/drawable/style_artistlist_item.xml
+SHA-256-Digest: iuNwFBXaDjraayu79w5SpVrCeVMIz1Tm3bAqjfkJgs8=
+
+Name: res/drawable-sw600dp-v13/sub_track.png
+SHA-256-Digest: ZuLDSQdkmlHIfcsuBmIZ4ho4tvXNjkJhdabA8mTYhbc=
+
+Name: res/drawable-sw600dp-v13/popup_category_album.png
+SHA-256-Digest: 6bLrZ0EL9xFlDyJ3vM2uT2YIf96fe7iWNWy4WNOtfBQ=
+
+Name: res/drawable-sw600dp-v13/popup_category_playing.png
+SHA-256-Digest: WjxQJN5MQaCZve+veoIlPhlmvS6Wkv+DVlJnDgDV8E0=
+
+Name: res/drawable-sw480dp-v13/popup_sort_time_over.png
+SHA-256-Digest: iB0EgtwNP/hr8VfFsVrlxxY8YFhK+BlKRK2i3nI3WA0=
+
+Name: res/layout/activity_track_list.xml
+SHA-256-Digest: UDZc1OZkjlB0L9+cy5g/l2Z3H4Af6c9ZRt6AyS4ji44=
+
+Name: res/drawable-sw600dp-v13/music_list_artist.png
+SHA-256-Digest: hAD0i1rKin8RGwwVAkl78aUNxlNgrmJz2qet06VjPsY=
+
+Name: res/drawable-sw600dp-v13/play_list.png
+SHA-256-Digest: E3EFHw31YVNfvBta1ihQwmqcmUBt80mFUHeVvefz5RA=
+
+Name: res/drawable-sw480dp-v13/popup_sort.png
+SHA-256-Digest: F7CAU+ImZddrUvLFRc2FhzjvjnHCa0J967Kjw9q2POo=
+
+Name: res/drawable-sw600dp-v13/playing.png
+SHA-256-Digest: JxzKU2rZwAHCb2IYSppXyjO4kKa3JXidzhOItakCjJ8=
+
+Name: res/drawable-sw600dp-v13/popup_setting_party_shuffle.png
+SHA-256-Digest: DYon3ob/xdW3A1cwTUUAaMqcJnflJJbjsr6BqkPFr1g=
+
+Name: res/drawable-sw480dp-v13/popup_setting.png
+SHA-256-Digest: iQ8UmOXaqPSQ/fxBZ0bIci8ZSwmPN3smhAoec6Fk80U=
+
+Name: res/drawable-sw600dp-v13/popup_sort_time.png
+SHA-256-Digest: p3Qc6I9CD+xiaHoqRmoa+5LJ3xdX3AUPIK/DtyYwLDU=
+
+Name: res/drawable-sw480dp-v13/play_shuffle.png
+SHA-256-Digest: g7GFU3jV4vQSW9kA92ay4Yy/Bl26rBIlJWj1FYHaK4g=
+
+Name: res/drawable-sw480dp-v13/popup_category_over.png
+SHA-256-Digest: diQ55lvxUQz7WbjdTkXbmLjPngNMk1CbpVVLdktuQFI=
+
+Name: res/layout/activity_popup.xml
+SHA-256-Digest: LvqWZQXnpESn6OcbbALyqBs+w/+vlpHiLe9VEDDboxs=
+
+Name: res/layout/activity_popup_setting.xml
+SHA-256-Digest: KbsUicohpJaJ3DgCz3IfKyVEircysFe5B943OqpBwVM=
+
+Name: res/drawable-sw600dp-v13/popup_setting.png
+SHA-256-Digest: UNdB5qnafEgmeHqZBPbYelti3J4PqwJdkD+enCAkVzU=
+
+Name: res/drawable/style_play_next.xml
+SHA-256-Digest: lB3QFQZrcFFeTtfHY4zM/nuQf+54LvPc7Ps/YudA6rc=
+
+Name: res/layout/activity_list.xml
+SHA-256-Digest: XOfOzFGsPtFBbvBJagW+uKr4p5cS/bkxAFc0hqNFWs4=
+
+Name: res/layout/activity_play.xml
+SHA-256-Digest: if7nis6RjonwlDh8HlFtI05P9hEPQuckbtVg1IOPMsU=
+
+Name: res/drawable-sw480dp-v13/play_list_over.png
+SHA-256-Digest: FohWUgGwBzgKls9htRQFIHiZQtHSzdsh3l8/NqJblPQ=
+
+Name: res/layout/activity_artist_track_list.xml
+SHA-256-Digest: GULWk4IPykhkKqY3TmfhMVOODcqhGbjaGHd+nI0dKjM=
+
+Name: res/drawable/style_popup_setting_shuffle_all.xml
+SHA-256-Digest: VNVnbsKvNAc4G55nObMXaSy4NsZIOA6dbKLzToUb1ZQ=
+
+Name: res/layout-sw480dp-v13/activity_play.xml
+SHA-256-Digest: mgjG3rOo3Pu9UfQuZAb4HanMYuKB/PU+GSBgYRRt2Rw=
+
+Name: res/drawable-sw480dp-v13/popup_setting_party_shuffle_over.png
+SHA-256-Digest: eeKCvczARG6sUPLixlO9Vjh9VK7USaNJbE3uiik4hnU=
+
+Name: res/drawable-sw480dp-v13/play_loop_over.png
+SHA-256-Digest: 3E3RfHWHPsWap+TgU5qyW9GkeOsWotGKmAYCi6HVuDA=
+
+Name: res/drawable-sw480dp-v13/quick_search_over.png
+SHA-256-Digest: WO70nUm7NDuqVsZeVOSDLMQXrp/RtT69gm9TdNDpM1I=
+
+Name: res/layout-sw600dp-v13/activity_album_track_list.xml
+SHA-256-Digest: WidGuN7kJIzt8Sz46Z5z+6zveDpSjbom2q6fKg3lOkQ=
+
+Name: res/drawable-sw480dp-v13/list_icon_moreset_over.png
+SHA-256-Digest: 5ncfJwCrWcbsqg0p0hK4UscTaDLJMwbnBZ6ZKmGyoVQ=
+
+Name: res/drawable-sw600dp-v13/play_pause.png
+SHA-256-Digest: X2sn8vuqSLzCKn6PgggLfPTcWgBc3SCAN7w7Xj5D9N0=
+
+Name: res/layout-sw480dp-v13/activity_popup_category.xml
+SHA-256-Digest: Rbu8jUhFSY4Hb5/j0pYQglQZfw01Yul0BeO++4N1rNg=
+
+Name: res/drawable-sw600dp-v13/popup_sort.png
+SHA-256-Digest: 5harFkOV1aapsbq56zeaT4/XNHiK6GhOGrEeX7vVUi8=
+
+Name: res/drawable/style_popup_sort_title.xml
+SHA-256-Digest: gHBYnfB8RpJ+aPu16zS4x8f3YmEuQBWC0CQarsywy6Q=
+
+Name: res/drawable/play_effect.png
+SHA-256-Digest: uyHrVHhcLK5ghvAb3g+i3Xq3gNScRSSIHh5QuYGsgQQ=
+
+Name: res/drawable-sw600dp-v13/list_icon_track.png
+SHA-256-Digest: ADxBuf5qPJPqFICxGbiMJudlid7m+LxcLZ3lAmr1b1I=
+
+Name: res/drawable-sw600dp-v13/quick_search.png
+SHA-256-Digest: GrLF6wi7yPdPM8oElz7+844ddYCJqXJSK9XCvTU8dfY=
+
+Name: res/drawable-sw480dp-v13/play_previous_over.png
+SHA-256-Digest: 5Uqtv505o6yGuo0eGSu49D+MGqJg0zv+zaXcB8GWZcQ=
+
+Name: res/layout-sw480dp-v13/activity_artist_track_list.xml
+SHA-256-Digest: vgTbdSHrnwkBlpnc71SWemoTwtMxV0nHlEPsJ1hiNsw=
+
+Name: res/drawable-sw480dp-v13/popup_setting_shuffle_all.png
+SHA-256-Digest: mRs+pjLYdSHDIFDNdJQl2A0MoJvy2laisefja2alCDw=
+
+Name: res/drawable-sw600dp-v13/popup_setting_shuffle_all.png
+SHA-256-Digest: NQHVDTZGbZ199Vd+dbgOHVGGwnbZHBwvBbYD58fgLr4=
+
+Name: res/drawable-sw480dp-v13/playing.png
+SHA-256-Digest: B+FnJUN2g1lyCmbLocYHNhiOVw0ZVraskfK3ASFGqkQ=
+
+Name: res/layout/activity_popup_sort.xml
+SHA-256-Digest: 7sokyIYzOrpdQdhHXBz/KMBUwE0btoQJx17fzMBCg2U=
+
+Name: res/drawable-sw480dp-v13/popup_category_artist_over.png
+SHA-256-Digest: Ca4jBdKivOn5rsk2u6Am//38ISO1P9TzHwZ0VLYBUqc=
+
+Name: res/layout-sw600dp-v13/activity_popup_category.xml
+SHA-256-Digest: uVl7orn9UAyDIy0HxKAqp5E4Qhu0ASSvDHRLXEDzps4=
+
+Name: res/drawable-sw600dp-v13/play_single_loop_over.png
+SHA-256-Digest: hINkdhaSeav21RoLkR2dAYUrsUxT+N4kDMdvZoJJZZk=
+
+Name: res/drawable-sw480dp-v13/popup_setting_play_all_over.png
+SHA-256-Digest: bBfzdKpWvB2diDH8+XMcczcQwkxv7wW4GPG3oC7m+sE=
+
+Name: res/layout-sw480dp-v13/activity_main.xml
+SHA-256-Digest: grGwqQszUAFyeHh6OACDqqsAdiz1bi609BODiu1u/j8=
+
+Name: res/drawable-sw600dp-v13/quick_search_background.png
+SHA-256-Digest: lA1Xb/ruvU67vt+Ncj5xQrkBb4T5yR6Yer1XQGviaYM=
+
+Name: res/drawable-sw600dp-v13/play_loop.png
+SHA-256-Digest: 8/FqSvQG8My2LnmhlaSbvG7/ddDbmHLX6J1FIHjUrnI=
+
+Name: res/drawable-sw600dp-v13/play_play.png
+SHA-256-Digest: 8nJW8hoO1s8AqhSQ1jvm0DTIblsR14Zvw8QX9Qv822w=
+
+Name: res/layout-sw480dp-v13/activity_track_list.xml
+SHA-256-Digest: H44eQ7VA8Mz5xMDAVWiKbrUMALQ7zexFGVUjS0jf6lQ=
+
+Name: res/drawable/style_popup_sort_size.xml
+SHA-256-Digest: FLI0wVmpgMQfgJ0q/WqRL+tSdoodybP24PKph4jG/CE=
+
+Name: res/drawable-sw600dp-v13/popup_setting_shuffle_all_over.png
+SHA-256-Digest: hso50jsBfysEYOe5QBxJuTXTImltyz8WQMbuo3HaJz4=
+
+Name: res/drawable-sw480dp-v13/popup_sort_type.png
+SHA-256-Digest: B/ALaRx4JdAG4+lT8ZuKDYmkyrY8cx0ZoLlOPwzuYW0=
+
+Name: res/layout/activity_popup_search.xml
+SHA-256-Digest: zajqDf9CUYfkbspwZyjIOrOK77y7q/EptLB53yjZcPM=
+
+Name: res/drawable/style_quick_search.xml
+SHA-256-Digest: x3kJMDeF4MaOOYxPwjvu8JRiJwkgyoCpG91LzMlyB5Y=
+
+Name: resources.arsc
+SHA-256-Digest: tjNHzfzbRO/SYsA/uSuqv67z9VTUxGNpIzHH+x8xwEw=
+
+Name: res/drawable-sw480dp-v13/music_list_album_over.png
+SHA-256-Digest: PrwBXhm5gD/GKuSuRiytruCYoQrg2qMpDzS81i8bBN0=
+
+Name: res/drawable-sw600dp-v13/play_previous.png
+SHA-256-Digest: l5m8J0m3En2/s9TPRUzZmLGZuqj7U+GEDwKIkOoFAR4=
+
+Name: res/drawable-sw600dp-v13/popup_sort_size_over.png
+SHA-256-Digest: YWc+mALUtXMBcNV9OOyu+jQa0L3bwMTvAQHSXAU2zUA=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: beYup6mfdnkM0Y8ct6pTuy0T/r0dN7tFos7m5yLZAQc=
+
+Name: res/drawable-sw480dp-v13/quick_search.png
+SHA-256-Digest: /XbsCFSVEbpyFtWYyBa38tgCfHnEpOHJRLwbvt9Oz3g=
+
+Name: res/drawable-sw480dp-v13/popup_search.png
+SHA-256-Digest: QRIctCq/bKNeVAzaR3DBt2ez8QBlAX9MSQS1UllAhvY=
+
+Name: res/drawable-sw480dp-v13/popup_sort_title.png
+SHA-256-Digest: WP+dPnHgOXUO48QmzgbBQOioQ83101cDvSAWi8T/Cqc=
+
+Name: res/layout/activity_popup_category.xml
+SHA-256-Digest: ZkG8HuisW3CskSrmaXZdTTBe5ufsqKhyzbqXtcZ5n/I=
+
+Name: res/drawable-sw600dp-v13/music_list_track.png
+SHA-256-Digest: VmdoFO4ZOBdsXP78A9b+z3BmL6eH2bqk+SqU6HcnFJw=
+
+Name: res/layout-sw600dp-v13/activity_lrc_line.xml
+SHA-256-Digest: g6LMFNIHNdMqxJ/SfqIIOKMiftl1NaWnhlQfFJIVUoA=
+
+Name: res/layout-sw600dp-v13/activity_list.xml
+SHA-256-Digest: XOfOzFGsPtFBbvBJagW+uKr4p5cS/bkxAFc0hqNFWs4=
+
+Name: classes.dex
+SHA-256-Digest: GhZvGJDYYe02MvVoJ5bJAw/8l92Pw3Y+J2FK9rQ9VzU=
+
+Name: res/drawable-sw600dp-v13/music_list_album_over.png
+SHA-256-Digest: GymPGQagyCxhND+hO5oaSl0ZqDhBODXK/nZj9nvmJXQ=
+
+Name: res/drawable-sw480dp-v13/popup_sort_title_over.png
+SHA-256-Digest: Gkgu/A8VgG/fyNVcuV4O9Zk1pTrU2O9ALdxaulmt5tA=
+
+Name: res/drawable-sw480dp-v13/play_single_loop.png
+SHA-256-Digest: 5WmabfR81crI3XXDUUpyowEq7YoDT6wQ4ZG4bwYxneU=
+
+Name: res/drawable-sw600dp-v13/popup_sort_title_over.png
+SHA-256-Digest: IFMZ654dUo6sjYTWB+YPYji1SG8nyBYutEtuSKgcaaw=
+
+Name: res/drawable-sw600dp-v13/popup_category_track_over.png
+SHA-256-Digest: JzuhAgESlaFmLNw1sZHpEbc8f0spUOVMyIfDsOdGIU0=
+
+Name: res/drawable-sw480dp-v13/popup_sort_type_over.png
+SHA-256-Digest: QLQzSeZw0e1X4K8pH0TOTC0hzaiCPvZpr7GJQh96w1w=
+
+Name: res/drawable/style_tracklist_item.xml
+SHA-256-Digest: N2eioXpBFZ4RcIilA7LLtUAeypl4cJq9myxYdXjAvzk=
+
+Name: res/layout-sw480dp-v13/activity_album_list.xml
+SHA-256-Digest: Wh9SN/6D8kjPPjoGrgvmIsP/RXfEW6azhY3HdDpzr4o=
+
+Name: res/drawable-sw600dp-v13/play_shuffle.png
+SHA-256-Digest: yAaiXVXBolIJ+As9+c1FWMD0F+K+ICNwVpdnpSQC4iQ=
+
+Name: res/layout-sw480dp-v13/activity_item.xml
+SHA-256-Digest: zI4t0o0KcmKXiYzKHJMxF+2WvozjndVZCwxt4JqYK04=
+
+Name: res/layout-sw480dp-v13/activity_popup_setting.xml
+SHA-256-Digest: OZr4lqSWMMnFBY8CAsTObsk3xJEKnpS/9aVCbeBraPY=
+
+Name: res/drawable-sw480dp-v13/play_lrc_over.png
+SHA-256-Digest: bRxPt2Btb+eLp7DCJF/evHdVA7fifMq4fSmTcUez3C4=
+
+Name: res/layout/activity_dummy.xml
+SHA-256-Digest: f4lLgHjmRuOwY0LS0vUPK9fs8EkPWkTIU/KpvZZJ3MU=
+
+Name: res/drawable-sw480dp-v13/play_play.png
+SHA-256-Digest: rsEXKH+E0CpGQ2Qmn4n67ho44nphE4i7aDD+5akN2Pg=
+
+Name: res/drawable-sw600dp-v13/popup_search_button_over.png
+SHA-256-Digest: UBPYfu0U9V2U5x//XS+k0m9aMkngKJJlymvaqIxFzu8=
+
+Name: res/drawable-sw480dp-v13/popup_search_button_over.png
+SHA-256-Digest: 880AyZYreO/fnl+Dkff+JEzoCmoqCZ87IQcthunCA+s=
+
+Name: res/layout-sw480dp-v13/activity_artist_list.xml
+SHA-256-Digest: lI8jrvW2XYCy+XWByfWloW6CyApuxc/weQaBhKNrlE4=
+
+Name: res/drawable-sw480dp-v13/popup_sort_size.png
+SHA-256-Digest: eiRAiiyjUjafOtUd014S7QFugyrKjRw1RfRa1IxMGJk=
+
+Name: res/layout-sw480dp-v13/activity_popup_sort.xml
+SHA-256-Digest: MeEPHuL/ymumIkFLRoR7C9De3wFdp3rNOfLfVywZqHM=
+
+Name: res/layout-sw480dp-v13/activity_popup.xml
+SHA-256-Digest: IIzVoYVSlyVtB3oV/pQT62fFOvXkbXV1pZdbhD6xoSw=
+
+Name: res/layout-sw600dp-v13/activity_popup_sort.xml
+SHA-256-Digest: qlC1HYl+PKOWK3fTT7vh5hqIlaPN9kofDIJbS3oRwIM=
+
+Name: res/drawable-sw480dp-v13/popup_category_album_over.png
+SHA-256-Digest: T4hnpAlcLEHuQS6EH2aYDb8LJ2Tx6BtfqFM2+d7xYOY=
+
+Name: res/drawable/style_popup_sort_time.xml
+SHA-256-Digest: Hb/UtmUwQKqUru74RslPZu1pyRbA/ugWE/2qOsXC2aI=
+
+Name: res/layout/activity_item.xml
+SHA-256-Digest: lIlsr7LMluCZsJy2Y4fUJSpOM5QrkWAECDcH7LylZ8Q=
+
+Name: res/drawable-sw600dp-v13/play_loop_over.png
+SHA-256-Digest: ZqLuW7lq4wDr8q7D9sPX2in58zUHtytqS2MLik6XMjM=
+
+Name: res/drawable-sw480dp-v13/popup_category_track.png
+SHA-256-Digest: nAh4V65MvIkaV8J9HXjZ19ri/re/nilvtRWKlMKB6vE=
+
+Name: res/drawable-sw600dp-v13/popup_category_track.png
+SHA-256-Digest: NufjfVyJdV5zmVdnHVsOEMMdv3P3kwU4P1ynC2NR9fA=
+
+Name: res/drawable/style_popup_category_track.xml
+SHA-256-Digest: yj+6q2V+/0FhLg4nyyTrtCModXsmXDHi70Lf400lfsA=
+
+Name: res/drawable/style_popup_setting_party_shuffle.xml
+SHA-256-Digest: 5dsfWg2gWOAe1xm0xdkOoEmwpSQG2W5HvvycYXPGStw=
+
+Name: res/drawable-sw600dp-v13/popup_category_album_over.png
+SHA-256-Digest: gLjivOTOQUovfmYL4fo8nsJyBQOGqG6gZnFlD/cQJmk=
+
+Name: res/drawable/style_headline_function.xml
+SHA-256-Digest: 2uAYpX2zl29eIQ0X0+4mbEvCCLiy3AP53wJJ2/Tl0qI=
+
+Name: res/drawable-sw600dp-v13/music_list_artist_over.png
+SHA-256-Digest: TPxIo/N0dMwjWRtb5bsnTjM3ZSnxbyTbqOQFB6iDqus=
+
+Name: res/layout/activity_artist_list.xml
+SHA-256-Digest: tFaZSmPRjlEkv0kkEUMCodnS/T0TDStQ1r+7wpqGpRg=
+
+Name: res/drawable-sw600dp-v13/popup_search_edit.png
+SHA-256-Digest: ekqjva0NkysOahX6TyMzgFSyQXC/F8OVcO8JsZtMmrM=
+
+Name: res/drawable-sw480dp-v13/play_lrc.png
+SHA-256-Digest: N225hptGRZWe7LTKbcOFoHBjnmnM+3IoBWb010hQBp0=
+
+Name: res/drawable-sw600dp-v13/popup_setting_play_all_over.png
+SHA-256-Digest: XMQbSooUd5RWTPbh+z9VMiHJDCWX9dB1h69wz9DIma4=
+
+Name: res/drawable-sw480dp-v13/popup_category_artist.png
+SHA-256-Digest: x1YPU21vKxzJ5D1bVS0RFehBnqgTJPt/AGosyIitXyM=
+
+Name: res/drawable/style_play_previous.xml
+SHA-256-Digest: f3zpptIm+fo5ucT/Alv96ySJvAHkGFRdmwPxuOnVZJk=
+
+Name: res/drawable-sw480dp-v13/music_list_track.png
+SHA-256-Digest: 1xT3UyH1iof66ewguxAxdYaeTsdqCfI79I9ES+d0qw4=
+
+Name: res/drawable-sw480dp-v13/popup_category_playing_over.png
+SHA-256-Digest: LE3YfTqhurwB8ha0oHn5XIPaWoU4zfUmHE3JDdHY/zI=
+
+Name: res/drawable-sw480dp-v13/popup_search_button.png
+SHA-256-Digest: XyVaJHil8W5dOiXvGLNKFOYKyyDlByP4geEOGX58ptM=
+
+Name: res/drawable-sw480dp-v13/popup_sort_time.png
+SHA-256-Digest: +N90rFRYcnUfEGSowsqmFykzGSzEIvIfKsnGaSKI+4Q=
+
+Name: res/drawable-sw600dp-v13/popup_sort_type_over.png
+SHA-256-Digest: nquMye49WfLSmdDg0+YH34JSMXPk0eIRF06WCwFhnus=
+
+Name: res/layout/activity_album_track_list.xml
+SHA-256-Digest: aVnxMsLJLIY8S+rg4XndqxGI6kQloUbiSH08pKTTeco=
+
+Name: res/drawable/style_popup_category_playing.xml
+SHA-256-Digest: +hhIhgWP7L1SVSW+2raYc8kgWFJjLbpsRz4nt9Z3+dY=
+
+Name: res/layout-sw480dp-v13/activity_list.xml
+SHA-256-Digest: EF5L4+zPiRW6S/dMmn3IEOqItO/HfVGAyt/AIUatud8=
+
+Name: res/drawable-sw600dp-v13/popup_category_artist.png
+SHA-256-Digest: yxOztQpsaUL0eQulEqNcBlZx1hWeIr8t6F5Am3zu9pc=
+
+Name: res/drawable-sw480dp-v13/play_control_background.png
+SHA-256-Digest: jlqDX4TuMfa03myAiKFdMgBEkKqkYWDoV2H/neMg8cc=
+
+Name: res/drawable-sw600dp-v13/list_icon_album.png
+SHA-256-Digest: pbj55N3Kg2VQs33N7nTXWoi3+NnPuHEn2M9xejEH+Gg=
+
+Name: res/drawable-sw480dp-v13/sub_track.png
+SHA-256-Digest: I+PFvLBWYqiFH2+bforuojtx+i8TA5NOPLXwmIL6w64=
+
+Name: res/drawable-sw480dp-v13/popup_category.png
+SHA-256-Digest: 664ywHamHbI8r8BWQo2wiJIm6LprVlmPGDsqT2TqDNw=
+
+Name: res/drawable-sw600dp-v13/play_previous_over.png
+SHA-256-Digest: tnNODtCh4S6wEQrwvPkq+DAC901+GBpaOZHmUUCpuCI=
+
+Name: res/drawable-sw600dp-v13/popup_sort_time_over.png
+SHA-256-Digest: trZ4SkSyVa8mZGVoxBW6KutljWXJNrRTlVKel+9Vyjs=
+
+Name: res/drawable-sw480dp-v13/music_list_artist_over.png
+SHA-256-Digest: mXngss09aHoZUUntV60Gl9oCj9EMF+HFjhefhwdCUTY=
+
+Name: res/drawable-sw600dp-v13/popup_sort_size.png
+SHA-256-Digest: zDiWweNVg2ogmC5OOA50cliFeeezPLvH/ZC93SMnskI=
+
+Name: res/layout/activity_album_list.xml
+SHA-256-Digest: 2bwHCdbq7AzUp77NFJ50Suo1jIPVGS0RmOGh46u+GaM=
+
+Name: res/drawable-sw600dp-v13/popup_search.png
+SHA-256-Digest: SBf/2EQ3SMDsy/PlUX734uwBecr47k8jPWFspj6jnuU=
+
+Name: res/drawable-sw480dp-v13/audio.png
+SHA-256-Digest: C4fURMK+5gZqylz0HT5F7pIY0iP9i7/6VRqb7vz/G9E=
+
+Name: res/drawable-sw600dp-v13/music_list_album.png
+SHA-256-Digest: fN3GIf3Z0dPKNj13c3R0xlM9cpWwfsQnYSOos30x4Lo=
+
+Name: res/drawable-sw600dp-v13/popup_search_over.png
+SHA-256-Digest: 0dhFn+zSFLOoYdMoZyuI/UiSUsgeaCmzisu+LePOKzc=
+
+Name: res/drawable-sw480dp-v13/play_pause.png
+SHA-256-Digest: +6IOZ83vqJ0mNQkz0Ef65jLL5lpyrspABO/uI01W4kM=
+
+Name: res/layout-sw600dp-v13/activity_artist_track_list.xml
+SHA-256-Digest: J2oT5OEpgRfsd14Rn0X+p+6GIR+ajcfCXTOE4CX/dAw=
+
+Name: res/drawable-sw480dp-v13/music_list_artist.png
+SHA-256-Digest: nktb898Urzc47y+Mvu7thh81eVbAi1zISKlogAA9NWI=
+

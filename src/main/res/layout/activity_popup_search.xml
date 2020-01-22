@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutPopupSearch"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutPopupSearchControl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="80dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/EditTextPopupSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/popup_search_edit"
+            android:ems="10"
+            android:hint="@string/Quick_Search_Hint"
+            android:singleLine="true"
+            android:textColor="#ffffffff"
+            android:textSize="28sp">
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/ButtonPopupSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/style_popup_search"
+            android:text="@string/Popup_Search_Button"
+            android:textColor="#ffffffff"
+            android:textSize="28sp" />
+    </LinearLayout>
+</LinearLayout>

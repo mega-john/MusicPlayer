@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutPopupCategory"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutPopupCategoryIcon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ImageViewPopupCategoryPlaying"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/style_popup_category_playing" />
+
+        <ImageView
+            android:id="@+id/ImageViewPopupCategoryTrack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/style_popup_category_track" />
+
+        <ImageView
+            android:id="@+id/ImageViewPopupCategoryArtist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:src="@drawable/style_popup_category_artist" />
+
+        <ImageView
+            android:id="@+id/ImageViewPopupCategoryAlbum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/style_popup_category_album" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutPopupCategoryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/TextViewPopupCategoryPlaying"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:text="@string/Popup_Category_Playing"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/TextViewPopupCategoryTrack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="105dp"
+            android:text="@string/Popup_Category_Track"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/TextViewPopupCategoryArtist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:text="@string/Popup_Category_Artist"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/TextViewPopupCategoryAlbum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="110dp"
+            android:text="@string/Popup_Category_Album"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="28sp" />
+    </LinearLayout>
+</LinearLayout>

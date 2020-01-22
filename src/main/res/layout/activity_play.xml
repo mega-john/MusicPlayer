@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutPlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ViewFlipper
+        android:id="@+id/ViewFlipperPlayBrowse"
+        android:layout_width="match_parent"
+        android:layout_height="342dp">
+
+        <ImageView
+            android:id="@+id/ImageViewPlayBrower"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/music_list_track" />
+    </ViewFlipper>
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutPlayControl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/play_control_background"
+        android:gravity="fill_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal">
+
+            <cn.com.cs2c.musicplayer.MarqueeTextView
+                android:id="@+id/TextViewTrackTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxWidth="490dp"
+                android:singleLine="true"
+                android:text="@string/Track_Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="28sp" />
+
+            <TextView
+                android:id="@+id/TextViewSplitter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Title_Splitter"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="28sp" />
+
+            <cn.com.cs2c.musicplayer.MarqueeTextView
+                android:id="@+id/TextViewParentTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:maxWidth="490dp"
+                android:singleLine="true"
+                android:text="@string/Artist_Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutProgress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/TextViewProgress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Track_Time"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="28sp" />
+
+            <SeekBar
+                android:id="@+id/SeekBarPosition"
+                android:layout_width="740dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginRight="10dp"
+                android:max="100"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/TextViewLength"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Track_Time"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="28sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutFunction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ImageViewPlayShuffle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_shuffle" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayLoop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_loop_over" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayPrevious"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/style_play_previous" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayPause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_pause_over" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/style_play_next" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/style_play_list" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayEffect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/style_play_effect" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

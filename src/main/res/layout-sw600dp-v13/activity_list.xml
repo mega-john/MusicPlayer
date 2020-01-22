@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutList"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutHeadline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ImageViewHeadlineIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="60dp"
+            android:paddingRight="20dp"
+            android:src="@drawable/list_icon_track" />
+
+        <TextView
+            android:id="@+id/TextViewHeadlineName"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/Track_List"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="28sp" />
+
+        <EditText
+            android:id="@+id/EditTextQuickSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/quick_search_background"
+            android:ems="10"
+            android:fontFamily="sans-serif-condensed"
+            android:hint="@string/Quick_Search_Hint"
+            android:imeOptions="actionDone"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:singleLine="true"
+            android:textColor="#ffffffff"
+            android:textSize="28sp">
+
+            <requestFocus />
+        </EditText>
+
+        <ImageView
+            android:id="@+id/ImageViewQuickSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/style_quick_search"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/ImageViewHeadlineFunction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingRight="60dp"
+            android:src="@drawable/style_headline_function" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ImageViewLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="5dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/list_icon_line" />
+
+    <ViewFlipper
+        android:id="@+id/ViewFlipperList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

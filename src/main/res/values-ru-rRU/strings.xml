@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Музыка</string>
+    <string name="Track_List">Вся музыка</string>
+    <string name="Track_Name">Название трека</string>
+    <string name="Artist_Name">Исполнитель</string>
+    <string name="Album_Name">Название</string>
+    <string name="Invalid_Name">&lt;неизвестный&gt;</string>
+    <string name="Unknown_Name">Неизвестный</string>
+    <string name="Artist_List">Исполнители</string>
+    <string name="Album_List">Альбомы</string>
+    <string name="Artist_Track_List">Треки исполнителя</string>
+    <string name="Album_Track_List">Треки альбома</string>
+    <string name="Title_Splitter"> - </string>
+    <string name="Track_Time">00:00:00</string>
+    <string name="Popup_Category">Категория</string>
+    <string name="Popup_Sort">Сортировка</string>
+    <string name="Popup_Search">Поиск</string>
+    <string name="Popup_Setting">Настройки</string>
+    <string name="Popup_Category_Playing">Текущая</string>
+    <string name="Popup_Category_Track">Композиция</string>
+    <string name="Popup_Category_Artist">Исполнитель</string>
+    <string name="Popup_Category_Album">Альбом</string>
+    <string name="Popup_Sort_Title">Название</string>
+    <string name="Popup_Sort_Type">Тип</string>
+    <string name="Popup_Sort_Size">Размер</string>
+    <string name="Popup_Sort_Time">Время</string>
+    <string name="Popup_Search_Button">Найти</string>
+    <string name="Popup_Setting_Play_All">Все треки</string>
+    <string name="Popup_Setting_Party_Shuffle">Случайный исполнитель</string>
+    <string name="Popup_Setting_Shuffle_All">Случайный порядок</string>
+    <string name="File_Not_Exist">Файл не существует</string>
+    <string name="Music_Trace">Обработка музыки</string>
+    <string name="Quick_Search_Hint">Все</string>
+    <string name="Dummy_Hint">Загрузка...</string>
+</resources>

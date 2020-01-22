@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayoutPlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="1dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/bar_bottom" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="330dp"
+            android:layout_gravity="top"
+            android:elevation="0dp"
+            android:gravity="center_horizontal">
+
+            <ViewFlipper
+                android:id="@+id/ViewFlipperPlay"
+                android:layout_width="984dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical">
+
+                <ImageView
+                    android:id="@+id/ImageViewThumbnail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/music_list_track" />
+
+                <ListView
+                    android:id="@+id/ListViewLrc"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+            </ViewFlipper>
+
+            <ImageView
+                android:id="@+id/ImageViewPlayList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:src="@drawable/style_play_list" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutPlayControl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_vertical|center_horizontal|center"
+            android:layout_marginBottom="97dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/LinearLayoutTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="8dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <cn.com.cs2c.musicplayer.MarqueeTextView
+                    android:id="@+id/TextViewParentTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="490dp"
+                    android:singleLine="true"
+                    android:text="@string/Artist_Name"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:id="@+id/TextViewSplitter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Title_Splitter"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="28sp" />
+
+                <cn.com.cs2c.musicplayer.MarqueeTextView
+                    android:id="@+id/TextViewTrackTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:maxWidth="490dp"
+                    android:singleLine="true"
+                    android:text="@string/Track_Name"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/LinearLayoutProgress"
+                android:layout_width="900dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/TextViewProgress"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="3dp"
+                    android:text="@string/Track_Time"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+
+                <SeekBar
+                    android:id="@+id/SeekBarPosition"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:focusable="false"
+                    android:maxHeight="4dp"
+                    android:minHeight="4dp"
+                    android:paddingLeft="3dp"
+                    android:paddingRight="3dp"
+                    android:progress="0"
+                    android:progressDrawable="@drawable/seekbar"
+                    android:thumb="@drawable/thumb"
+                    android:thumbOffset="3dp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/TextViewLength"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:text="@string/Track_Time"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/LinearLayoutFunction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_vertical|center_horizontal|center"
+            android:elevation="1dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ImageViewPlayShuffle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_shuffle_over" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/sep" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayLoop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/play_loop" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayPrevious"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/style_play_previous" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayPause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/play_pause_over" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/style_play_next" />
+
+            <ImageView
+                android:id="@+id/ImageViewPlayLRC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/play_lrc" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/sep" />
+
+            <ImageView
+                android:id="@+id/ImageViewpinPuButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/style_start_eq" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>
